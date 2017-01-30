@@ -5,6 +5,7 @@ Electron boilerplate :)
 
 ```terminal
 git clone https://github.com/ChangJoo-Park/electron-boilerplate my-electron-app
+cd my-electron-app
 npm install
 npm run postinstall
 ```
